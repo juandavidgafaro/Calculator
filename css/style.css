@@ -1,0 +1,42 @@
+.calculator{
+    background-color: rgb(145, 135, 130) !important;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14rem;  
+}
+
+section{
+    width: 100%;
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.button{
+    width: 34px !important;
+    height: 29px !important;
+}
+
+.operations-button{
+    background-color: antiquewhite;
+    width: 34px !important;
+    height: 29px !important;
+}
+
+.special-button{
+    background-color: rgb(232, 172, 93);
+    width: 34px !important;
+    height: 29px !important;
+}
+
+.inside{
+    margin: 6px 6px;
+}
+
+.first-section{
+    margin-top: 4px;
+}
